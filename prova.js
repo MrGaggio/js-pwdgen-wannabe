@@ -9,4 +9,4 @@ console.log(userName + userSurname + userFavoriteColor + 21);
 
 //Scrivi sulla pagina nomecognomecolorepreferito21
 
-document.getElementById("nome").innerHTML= userName + userSurname + userFavoriteColor;
+document.getElementById("nome").innerHTML= userName + userSurname + userFavoriteColor + 21;
